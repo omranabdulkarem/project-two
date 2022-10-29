@@ -1121,7 +1121,7 @@ header nav .form i {
 .footer {
     padding-top: 50px;
     padding-bottom: 50px;
-    background-image: url(image/subscribe.jpg);
+    background-image: url(/image/subscribe.jpg);
     background-size: cover;
     position: relative;
     text-align: center;
